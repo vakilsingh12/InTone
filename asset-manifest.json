@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/firstreactproject/static/css/main.9fa706cb.chunk.css",
+    "main.js": "/firstreactproject/static/js/main.3a46ead0.chunk.js",
+    "main.js.map": "/firstreactproject/static/js/main.3a46ead0.chunk.js.map",
+    "runtime-main.js": "/firstreactproject/static/js/runtime-main.1d0b4a95.js",
+    "runtime-main.js.map": "/firstreactproject/static/js/runtime-main.1d0b4a95.js.map",
+    "static/css/2.38451786.chunk.css": "/firstreactproject/static/css/2.38451786.chunk.css",
+    "static/js/2.85900e9e.chunk.js": "/firstreactproject/static/js/2.85900e9e.chunk.js",
+    "static/js/2.85900e9e.chunk.js.map": "/firstreactproject/static/js/2.85900e9e.chunk.js.map",
+    "index.html": "/firstreactproject/index.html",
+    "precache-manifest.b039388b5c1aeab43a1f37766b52ca27.js": "/firstreactproject/precache-manifest.b039388b5c1aeab43a1f37766b52ca27.js",
+    "service-worker.js": "/firstreactproject/service-worker.js",
+    "static/css/2.38451786.chunk.css.map": "/firstreactproject/static/css/2.38451786.chunk.css.map",
+    "static/css/main.9fa706cb.chunk.css.map": "/firstreactproject/static/css/main.9fa706cb.chunk.css.map",
+    "static/js/2.85900e9e.chunk.js.LICENSE": "/firstreactproject/static/js/2.85900e9e.chunk.js.LICENSE",
+    "static/media/android.jpg": "/firstreactproject/static/media/android.a29f9ecd.jpg",
+    "static/media/com.jpg": "/firstreactproject/static/media/com.2ef23ef1.jpg",
+    "static/media/iot.jpg": "/firstreactproject/static/media/iot.bd414d82.jpg",
+    "static/media/machine.jpg": "/firstreactproject/static/media/machine.80670361.jpg",
+    "static/media/web.jpg": "/firstreactproject/static/media/web.426e24f5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d0b4a95.js",
+    "static/css/2.38451786.chunk.css",
+    "static/js/2.85900e9e.chunk.js",
+    "static/css/main.9fa706cb.chunk.css",
+    "static/js/main.3a46ead0.chunk.js"
+  ]
+}
